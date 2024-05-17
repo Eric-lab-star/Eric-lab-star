@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+- Editor
+  - neovim
+- Language
+  - Korean
+  - English
+  - Javascript
+  - Go
+  - Java
 
 <!--
 **Eric-lab-star/Eric-lab-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
